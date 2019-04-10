@@ -38,8 +38,8 @@ public class InteractiveSolution {
         System.out.println("-----------------------------------------------------------------------");
 
         System.out.println();
-        System.out.println("Since this program doesn't store the number you want me to guess. Please");
-        System.out.println("keep it in your head, or written down somewhere so you don't forget.");
+        System.out.println("This program doesn't store the number you want me to guess. Please keep");
+        System.out.println("it in your head, or written down somewhere so you don't forget.");
         System.out.println();
         System.out.println("To start, tell me how many numbers we are guessing today:");
         int testCases = input.nextInt();
